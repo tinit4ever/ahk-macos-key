@@ -1,9 +1,4 @@
-Markdown Live Preview
-Reset
-Copy
-
 # `Guideline`
-
 
 Guideline
 Step 1: Type Window + R shortcut to start typing command
